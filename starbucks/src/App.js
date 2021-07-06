@@ -1,13 +1,13 @@
-import Nav from './Components/Nav';
-import Header from './Components/Header';
-import Hero from './Components/Hero';
-import GettingStarted from './Components/GettingStarted';
-import Favourites from './Components/Favourites';
-import EndlessExtras from './Components/EndlessExtras';
-import EarnStars from './Components/EarnStars';
-import StarCode from './Components/StarCode';
-import RulesAndInfo from './Components/RulesAndInfo';
-import Footer from './Components/Footer';
+import Nav from './Components/Sections/Nav';
+import Header from './Components/Sections/Header';
+import Hero from './Components/Sections/Hero';
+import GettingStarted from './Components/Sections/GettingStarted';
+import Favourites from './Components/Sections/Favourites';
+import EndlessExtras from './Components/Sections/EndlessExtras';
+import EarnStars from './Components/Sections/EarnStars';
+import StarCode from './Components/Sections/StarCode';
+import RulesAndInfo from './Components/Sections/RulesAndInfo';
+import Footer from './Components/Sections/Footer';
 
 function App() {
   return (
